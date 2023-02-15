@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 data
-test.ipynb
 atm_api.ipynb
-population_voice_phising.ipynb
+
+config.py
